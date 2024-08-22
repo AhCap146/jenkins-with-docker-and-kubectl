@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-REM Prompt the user to enter the Jenkins pod name
+REM Jenkins pod name
 set /p JENKINS_POD="Enter the Jenkins pod name: "
 
 REM Kubernetes namespace
