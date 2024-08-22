@@ -1,0 +1,16 @@
+pipeline-model-definition
+git
+github
+docker-workflow
+docker-plugin
+docker-build-publish
+blueocean
+workflow-aggregator
+nodejs
+cloudbees-folder
+credentials-binding
+ssh-agent
+ant
+matrix-project
+command-launcher
+maven-plugin
